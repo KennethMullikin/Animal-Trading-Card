@@ -1,0 +1,36 @@
+.border {
+  width: 400px;
+  height: 600px
+  display: flex;
+  flex-wrap: wrap;
+  border: 10px solid gold;
+  border-radius:25px;
+  background-image: url(https://wallpapercave.com/wp/wp3366881.jpg);
+  box-shadow: 5px 10px #5f5f5f;
+}
+span {
+  font-weight:bolder;
+}
+.komodo {
+  text-align:center;
+  font-size:20pt
+}
+ul {
+  list-style: none;
+  padding:0;
+}
+img {
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+  box-shadow: 2px 4px;
+}
+.info {
+  border: 2px solid black;
+  margin:.2px;
+  font-family: "Futura Condensed Medium", georgia, sans-serif;
+  padding: 10px;
+  }
+.fact {
+  font-style:italic;
+}
